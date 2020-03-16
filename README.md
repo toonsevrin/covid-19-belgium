@@ -13,3 +13,5 @@ Uses [coronavirus-tracker-api](https://github.com/ExpDev07/coronavirus-tracker-a
 ```
 The data is available to the public strictly for educational and academic research purposes. Please link to this repo somewhere in your project if you can (not required) :).
 ```
+
+Data should should come from [the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE)](https://github.com/CSSEGISandData/COVID-19).
